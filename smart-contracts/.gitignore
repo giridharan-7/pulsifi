@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Hardhat artifacts
+artifacts/
+cache/
+
+# Build outputs
+build/
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+hardhat.config.js
